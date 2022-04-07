@@ -1,4 +1,4 @@
-T = readtable('~/Downloads/u_data.csv');
+T = readtable('./u_data.csv');
 u = T.u;
 
 u = reshape(u, 1000, 1000);
