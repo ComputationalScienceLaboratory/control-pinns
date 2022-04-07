@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Physics-informed neural networks for
+  PDE-constrained optimization and control
+message: Please cite this project using these metadata.
+type: software
+authors:
+  - given-names: Jostein
+    family-names: ' Barry-Straume'
+    email: jostein@vt.edu
+    affiliation: Virginia Tech
+  - given-names: Arash
+    family-names: Sarshar
+    email: sarshar@vt.edu
+    affiliation: VirginiaTech
+    orcid: 'https://orcid.org/0000-0002-6633-8915'
+  - orcid: 'https://orcid.org/0000-0002-7726-6224'
+    affiliation: VirginiaTech
+    given-names: 'Andrey '
+    name-particle: A
+    family-names: Popov
+    email: apopov@vt.edu
+  - given-names: Adrian
+    family-names: Sandu
+    email: sandu@cs.vt.edu
+    affiliation: VirginiaTech
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/ComputationalScienceLaboratory/control-pinn
