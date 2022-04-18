@@ -15,10 +15,10 @@ authors:
   - given-names: Arash
     family-names: Sarshar
     email: sarshar@vt.edu
-    affiliation: VirginiaTech
+    affiliation: Virginia Tech
     orcid: 'https://orcid.org/0000-0002-6633-8915'
   - orcid: 'https://orcid.org/0000-0002-7726-6224'
-    affiliation: VirginiaTech
+    affiliation: Virginia Tech
     given-names: 'Andrey '
     name-particle: A
     family-names: Popov
@@ -26,7 +26,8 @@ authors:
   - given-names: Adrian
     family-names: Sandu
     email: sandu@cs.vt.edu
-    affiliation: VirginiaTech
+    affiliation: Virginia Tech
+    orcid: 'https://orcid.org/0000-0002-5380-0103'
 identifiers:
   - type: url
     value: >-
