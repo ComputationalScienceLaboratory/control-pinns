@@ -15,3 +15,6 @@ More information can be found at [https://josteinstraume.github.io/ControlPINNs]
   year={2022}
 }
 ```
+
+![Analytical problem](https://github.com/ComputationalScienceLaboratory/control-pinns/blob/main/animations/AnalyticalProblem_Convergence.gif "Evolution of the solutiona nd optimal control")
+
