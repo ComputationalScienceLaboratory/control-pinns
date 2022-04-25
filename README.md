@@ -4,7 +4,9 @@ Control Physics-Informed Neural Networks (PINNs) can simultaneously solve the le
 2. [A heat equation](https://github.com/ComputationalScienceLaboratory/control-pinn/blob/main/notebooks/ControlPINN_HeatEquation_1D.ipynb)
 3. [A predator prey problem](https://github.com/ComputationalScienceLaboratory/control-pinn/blob/main/notebooks/ControlPINN_Predator_Prey_2D.ipynb)
 
-More information can be found at [https://josteinstraume.github.io/ControlPINNs](https://josteinstraume.github.io/ControlPINNs).
+![Predator-Prey problem](https://github.com/ComputationalScienceLaboratory/control-pinns/blob/main/animations/ControlPINN_Predator_Prey_Absolute_Error.gif "Evolution of the absolute error between the solution and numerical simulation")
+
+![Analytical problem](https://github.com/ComputationalScienceLaboratory/control-pinns/blob/main/animations/AnalyticalProblem_Convergence.gif "Evolution of the solution and optimal control")
 
 # Citation
 ```
@@ -15,6 +17,3 @@ More information can be found at [https://josteinstraume.github.io/ControlPINNs]
   year={2022}
 }
 ```
-
-![Analytical problem](https://github.com/ComputationalScienceLaboratory/control-pinns/blob/main/animations/AnalyticalProblem_Convergence.gif "Evolution of the solutiona nd optimal control")
-
