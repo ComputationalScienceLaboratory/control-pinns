@@ -14,6 +14,6 @@ Control Physics-Informed Neural Networks (PINNs) can simultaneously solve the le
   title={Physics-informed neural networks for PDE-constrained optimization and control},
   author={Barry-Straume, Jostein and Sarshar, Arash and Popov, Andrey A. and Sandu, Adrian},
   journal={arXiv preprint},
-  year={2022}
+  year={2024}
 }
 ```
