@@ -1,8 +1,6 @@
 T = readtable('u_data.csv');
 u = T.u;
-
 n = sqrt(numel(u));
-
 u = reshape(u, n, n);
 
 domain = [0, 1];
